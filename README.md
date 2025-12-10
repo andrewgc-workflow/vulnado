@@ -1,4 +1,4 @@
-# Vulnado - Intentionally Vulnerable Java Application. 12-6-2025 To test policy scan
+# Vulnado - Intentionally Vulnerable Java Application. 12-8-2025 To test policy scan
 This application and exercises will take you through some of the OWASP top 10 Vulnerabilities and how to prevent them..
 
 ## Up and running
